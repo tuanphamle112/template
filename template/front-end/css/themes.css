@@ -1,4 +1,4 @@
-/*
+/*home-carousel
  *  Document   : themes.css
  *  Author     : pixelcave
  *  Description: The themes stylesheet of the template. The classes can be used to
@@ -21,7 +21,7 @@ THEME DEFAULT
 }
 
 .themed-background-default {
-    background-color: #1bbae1 !important;
+    background-image: url('/search-bg.jpg') !important;
 }
 
 .themed-color-dark-default {

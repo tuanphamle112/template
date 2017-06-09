@@ -58,7 +58,10 @@ slideDown
     -webkit-animation-timing-function: ease;
     visibility: visible !important;
 }
-
+.carousel-inner .bgimg {
+	background-image: url('/search-bg.jpg');
+	background-repeat: initial;
+}
 @keyframes slideDown {
     0% {
         transform: translateY(-100%);
