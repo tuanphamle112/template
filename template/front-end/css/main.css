@@ -697,11 +697,6 @@ body {
 .portfolio {
     margin-bottom: 19px;
 }
-
-.portfolio > div {
-    margin-bottom: 30px;
-}
-
 .portfolio-item > a {
     display: block;
     position: relative;
@@ -794,20 +789,13 @@ a.store-item:hover {
     transition: transform .2s ease-out;
 }
 
-.store-item:hover .store-item-image img {
-    -webkit-transform: scale(1.3);
-    transform: scale(1.3);
-}
 
 .store-item-price {
     font-weight: bold;
     font-size: 28px;
 }
 
-.store-item-info {
-    padding: 20px;
-    background-color: #f9f9f9;
-}
+
 
 /* Store Menu */
 .store-menu,

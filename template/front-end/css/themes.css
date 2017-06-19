@@ -20,9 +20,6 @@ THEME DEFAULT
     border-color: #1bbae1 !important;
 }
 
-.themed-background-default {
-    background-image: url('/search-bg.jpg') !important;
-}
 
 .themed-color-dark-default {
     color: #394263 !important;
